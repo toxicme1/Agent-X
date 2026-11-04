@@ -1,0 +1,5 @@
+﻿{
+  "name": "android-agent",
+  "displayName": "Android Agent",
+  "expo": { "name": "android-agent", "slug": "android-agent", "ios": { "supportsTablet": true }, "android": { "package": "com.androidagent" } }
+}

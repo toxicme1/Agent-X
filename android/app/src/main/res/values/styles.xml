@@ -1,0 +1,5 @@
+﻿<!DOCTYPE resources [<!ENTITY app_name "Android Agent">]>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+</resources>

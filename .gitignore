@@ -1,0 +1,10 @@
+﻿node_modules
+.env
+*.log
+.DS_Store
+build/
+android/app/build/
+android/.gradle/
+ios/
+*.apk
+*.aab
