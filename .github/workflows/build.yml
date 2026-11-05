@@ -35,6 +35,9 @@ jobs:
       - name: RN Android config (help autolinking)
         run: npx react-native config --platform android || true
 
+      - name: Make gradlew executable
+        run: chmod +x android/gradlew
+
       - name: Accept licenses
         run: yes | sdkmanager --licenses > /dev/null 2>&1 || true
 
