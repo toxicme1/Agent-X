@@ -1,5 +1,5 @@
 ﻿{
   "name": "android-agent",
-  "displayName": "Android Agent",
-  "expo": { "name": "android-agent", "slug": "android-agent", "ios": { "supportsTablet": true }, "android": { "package": "com.androidagent" } }
+  "displayName": "Omni Agent",
+  "expo": { "name": "omni-agent", "slug": "omni-agent", "ios": { "supportsTablet": true }, "android": { "package": "com.androidagent" } }
 }
